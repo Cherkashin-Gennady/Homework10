@@ -11,8 +11,9 @@ public class Main {
         }
         // Task 2
         System.out.println("Задача 2");
+        String fullNameTwo = "Ivanov Ivan Ivanovich";
         {
-            System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета —  " + fullName.toUpperCase());
+            System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета —  " + fullNameTwo.toUpperCase());
         }
         // Task 3
         System.out.println("Задача 3");
