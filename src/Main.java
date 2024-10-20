@@ -11,15 +11,17 @@ public class Main {
         }
         // Task 2
         System.out.println("Задача 2");
+        String fullNameTwo = "Ivanov Ivan Ivanovich";
+        // Инициализировал строку 'fullNameTwo'
         {
-            System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета —  "+fullName.toUpperCase());
+            System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета —  " + fullNameTwo.toUpperCase());
         }
         // Task 3
         System.out.println("Задача 3");
         String fullNameThree = "Иванов Семён Семёнович";
         String s2 = fullNameThree.replace('ё', 'е');
         {
-            System.out.println("Данные Ф. И. О. сотрудника — "+s2);
+            System.out.println("Данные Ф. И. О. сотрудника — " + s2);
         }
     }
 }
