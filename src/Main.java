@@ -12,7 +12,7 @@ public class Main {
         // Task 2
         System.out.println("Задача 2");
         String fullNameTwo = "Ivanov Ivan Ivanovich";
-        // Инициализировал в коде строку 'fullNameTwo'
+        // Инициализировал строку 'fullNameTwo'
         {
             System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета —  " + fullNameTwo.toUpperCase());
         }
